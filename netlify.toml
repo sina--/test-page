@@ -1,1 +1,4 @@
-/etch-a-sketch/* https://splendorous-jelly-bf64d2.netlify.app/etch-a-sketch/:splat 200!
+from = "/etch-a-sketch/*"
+to = "https://splendorous-jelly-bf64d2.netlify.app/etch-a-sketch/:splat"
+status = 200
+force = false
